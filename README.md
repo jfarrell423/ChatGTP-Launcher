@@ -3,9 +3,9 @@ Chrome Extension for ChatGTP
 
 ChatGTP-LAUNCHER
 
-Quick Chrome Extension to Launch UTVERSE in a New Window!
+Quick Chrome Extension to Launch ChatGTP in a New Window!
 
-Note: This is a concept and not the official UT Launcher! How to Load This Extension in Chrome
+Note: This is a concept and not the official ChatGTP Launcher! How to Load This Extension in Chrome
 
     Go to: chrome://extensions/
     Enable Developer mode (toggle in top right).
