@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGTP Launcher",
+  "version": "1.0",
+  "description": "Launches ChatGTP in a new window.",
+  "action": {
+    "default_title": "Open UTVerse",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["windows"],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
