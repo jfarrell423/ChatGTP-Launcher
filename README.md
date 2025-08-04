@@ -10,6 +10,6 @@ Note: This is a concept and not the official UT Launcher! How to Load This Exten
     Go to: chrome://extensions/
     Enable Developer mode (toggle in top right).
     Click "Load unpacked"
-    Select your UTVERSE-LAUNCHER/ folder.
+    Select your ChatGTP-LAUNCHER/ folder.
     You should now see your extension icon in the toolbar.
-    Click it — UTVerse opens in a new window!
+    Click it — ChatGTP opens in a new window!
